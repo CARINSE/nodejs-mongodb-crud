@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T12:54:16.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ii6DtuLWwNp3AG6qQMsr" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T13:12:15.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="-FtkKkIb0U-Hmzt4r0XF" version="14.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="352" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="oLfIQaYrdBBQirNkRfvc-11" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oLfIQaYrdBBQirNkRfvc-12" target="oLfIQaYrdBBQirNkRfvc-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oLfIQaYrdBBQirNkRfvc-12" value="n=4&lt;br&gt;edades[n]={10.20.30.20}&lt;br&gt;suma=0&lt;br&gt;promedio=0&lt;br&gt;i= 3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oLfIQaYrdBBQirNkRfvc-12" value="n=4&lt;br&gt;m=4&lt;br&gt;edades[n]={10.20.30.20}&lt;br&gt;curso[m]={1.2.3.4}&lt;br&gt;i= 0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555" y="60" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oLfIQaYrdBBQirNkRfvc-13" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oLfIQaYrdBBQirNkRfvc-15" target="oLfIQaYrdBBQirNkRfvc-21">
